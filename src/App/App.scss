@@ -1,0 +1,19 @@
+@import "../base/base";
+
+.App {
+  font-size: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  &__header {
+  }
+  &__startBtn {
+  }
+  &__score {
+  }
+  &__loader {
+  }
+  &__next {
+  }
+}
